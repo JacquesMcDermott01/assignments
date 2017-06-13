@@ -4,6 +4,6 @@ Assignment week 4 (https://github.com/JacquesMcDermott01/assignments/blob/master
 
 Assignment week 5 (https://github.com/JacquesMcDermott01/assignments/blob/master/Assignment_week_5-checkpoint%20(1).ipynb)
 
-Final Assignment (https://github.com/JacquesMcDermott01/assignments/blob/master/Final_Assignment_Python_1_students%20(1).ipynb)
+Final Assignment: Python (https://github.com/JacquesMcDermott01/assignments/blob/master/Final_Assignment_Python_1_students%20(1).ipynb)
 
-Final Assignment: Python
+Final Assignment: R (https://github.com/JacquesMcDermott01/assignments/blob/master/OECD_R_exam%20(1).ipynb)
